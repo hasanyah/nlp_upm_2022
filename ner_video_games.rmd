@@ -1,0 +1,51 @@
+---
+title: "Untitled"
+author: "Hasan Yahya"
+date: '2022-06-27'
+output: html_document
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## Clean up environment and load libraries
+
+```{r libraries}
+rm(list=ls()) 
+library("rstudioapi") 
+library(spacyr) 
+library(dplyr)
+setwd(dirname(getActiveDocumentContext()$path))
+```
+
+## Load English language model
+
+```{r}
+spacyr::spacy_initialize(model = "en_core_web_lg") 
+```
+
+## Load text files to be analyzed and merge their lines
+
+```{r}
+data <- vector(mode = "list", length = 10)
+for (val in 1:10) {
+  filename = paste("blog_post0",as.character(val),".txt", sep="")
+  data[val] <- apply(read.delim2(filename, header = FALSE, sep="\n"), 2, paste0, collapse=" ")
+}
+```
+
+## Check out WORK entities found in the document
+
+```{r}
+for (val in 1:10) {
+parsed <- spacy_parse(data[[val]], entity = TRUE)
+entity_extract(parsed)%>% 
+  dplyr::filter(entity_type == 'WORK')
+}
+```
+
+## Terminate spacy session
+
+```{r}
+spacy_finalize()
+```

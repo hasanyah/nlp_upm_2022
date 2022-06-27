@@ -1,0 +1,14 @@
+Valorant Is Planning to Monitor Voice Chat, Tests Begin Next Month
+
+Riot Games will begin testing its voice chat monitoring technology in Valorant next month as part of a wider strategy to combat "disruptive behaviour" in its games.
+
+In a blog post, Riot announced its voice evaluation system - eventually intended to identify community behavioural violations such as the use of abusive language - would begin testing on July 13.
+
+Valorant players will have their voice chat analyzed by the technology but, at this stage, it won't be judged for appropriateness. Riot said this testing period, only taking place in North America and in English, will be used "to help train our language models and get the tech in a good enough place for a beta launch later this year".
+
+Only once the technology is working effectively will Riot launch the official beta and begin evaluating players' voice chat following reports of disruptive behaviour. "This is brand new tech and there will for sure be growing pains," it said. "But the promise of a safer and more inclusive environment for everyone who chooses to play is worth it."
+
+While Riot has only announced this specific voice chat monitoring roadmap for Valorant so far, it made clear in the blog post that it plans to bring the service to its other games (such as League of Legends) too.
+
+In our 9/10 review, IGN said: "Valorant is a clever tactical hero shooter that’s plenty deep, and a lot of fun to master."
+

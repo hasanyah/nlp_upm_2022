@@ -1,0 +1,15 @@
+Apple's Long-Rumored VR/AR Headset May Include the M2 Chip
+
+
+It's been long-rumored that Apple is working on a headset capable of offering augmented reality (AR) and virtual reality content (VR). A new report now suggests that the head-mounted display features the powerful new M2 chip and 16GB of RAM.
+
+Bloomberg's Mark Gurman reports that the latest version of this headset is running with the M2 system on a chip and includes 16GB of RAM. This deviates from previous reports, which included a prediction from supply chain analyst Ming-Chi Kuo that the headset would include a chip with the same computing power found in the M1 chip.
+
+Gurman's latest reporting, like the report from The Information last month, suggests that the device will be a standalone headset, like the Meta Quest 2. The Information also noted in the same report that the device would have a multi-chip setup. However, in his new report, Gurman does not go into further detail on the mixed reality headset beyond what the current incarnation has CPU and RAM-wise.
+
+Apple announced the M2 chip during its WWDC keynote earlier this month. Currently, only one device on the market features the latest Apple silicon — the 13-inch MacBook Pro. However, a 2022 model refresh of the MacBook Air was also announced at WWDC and is slated for release sometime next month.
+
+Information on the mixed reality headset has trickled in throughout 2022; this includes Gurman reporting in May that Apple's board of directors had the opportunity to try out the headset. Additionally, "RealityOS," the operating system likely to be used on the headset, has appeared in a trademark application filed by the iPhone maker. At the same time, "RealityOS" has also appeared in Apple's code.
+
+Although Apple has not formally announced the product, CEO Tim Cook last week all but confirmed the headset's existence during a recent interview with China Daily. Reports suggest that Apple may launch the headset as early as January 2023.
+
